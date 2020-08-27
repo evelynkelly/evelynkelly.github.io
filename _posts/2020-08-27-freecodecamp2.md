@@ -20,8 +20,6 @@ You can make form fields required by designating them like so: `<input type="tex
 
 Inputs like radio buttons should have `for` and `id` specifications to help with assistive technologies, and each input should have the same name so they get properly grouped together:
 
-```
-<label for="button1">
-<input type="radio" id="button1" name="buttongroup">
-</label>
-```
+    <label for="button1">
+    <input type="radio" id="button1" name="buttongroup">
+    </label>
