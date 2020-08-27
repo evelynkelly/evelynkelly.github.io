@@ -1,8 +1,8 @@
 ---
 layout: post
-title: FreeCodeCamp Part 1
+title: FreeCodeCamp Part 2
 date: 2020-08-27 16:46:00
-last_modified_at: 2020-08-27 16:46:00
+last_modified_at: 2020-08-27 17:05:00
 ---
 
 Pointing an a element to "#" creates a dead link.
