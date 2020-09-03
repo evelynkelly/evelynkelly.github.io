@@ -2,10 +2,8 @@
 layout: post
 title: vim Cheat Sheet
 date: 2020-08-27 19:53:00
-last_modified_at: 2020-08-27 19:53:00
+last_modified_at: 2020-09-02 20:38:00
 ---
-
-A reference for basic vim commands.
 
 ### Modes
 

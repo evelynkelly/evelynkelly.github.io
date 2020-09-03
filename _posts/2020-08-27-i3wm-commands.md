@@ -2,10 +2,8 @@
 layout: post
 title: i3wm Cheat Sheet
 date: 2020-08-27 19:19:00
-last_modified_at: 2020-08-27 19:19:00
+last_modified_at: 2020-09-02 20:38:00
 ---
-
-This is a handy reference of some common i3wm commands, for anybody just starting out with i3wm.
 
 `$mod+shift+q` quits a window (closes a window)
 
