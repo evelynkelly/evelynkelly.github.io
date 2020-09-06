@@ -10,3 +10,4 @@ OMEMO: 1988b70a 76a1394f 5c485097 59dc42c6 7cc564d9 83c74578 974d3859 00419656
 [Matrix](https://element.io/): [@evelyn:halogen.city](https://matrix.to/#/@evelyn:halogen.city)  
 Telegram: [@evelynmkelly](https://t.me/evelynmkelly)  
 Discord (not preferred): evelyn#6629  
+[Git](https://gitlab.com): [evelynkelly](https://gitlab.com/evelynkelly)  
